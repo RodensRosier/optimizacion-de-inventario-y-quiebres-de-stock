@@ -57,9 +57,6 @@ optimizacion-de-inventario-y-quiebres-de-stock/
 │   ├── raw/                  # Dataset original de ventas, inventario y proveedores
 │   └── processed/            # Dataset procesado con clasificación ABC, ROP y alertas
 │
-├── docs/
-│   └── presentacion.pdf      # Presentación para comunicar los hallazgos de los análisis 
-│
 ├── notebooks/ 
 │   └── 01_eda_limpieza_inventario.ipynb  # Auditoría, limpieza y exploración de datos, Modelamiento ABC, ROP y análisis estadístico
 │ 
