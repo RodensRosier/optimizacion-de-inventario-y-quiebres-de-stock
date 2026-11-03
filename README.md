@@ -1,4 +1,4 @@
-# Optimización de Inventario y Quiebres de Stock (Ferretería)
+# Optimización de inventario y quiebres de stock
 
 ## Objetivo del Proyecto
 Este proyecto está enfocado en analizar el flujo de inventario operativo en el sector ferretero para minimizar quiebres de stock, determinar puntos de reorden precisos y optimizar el capital inmovilizado en bodega mediante técnicas de segmentación y parámetros estadísticos de control.
